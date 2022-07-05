@@ -1,0 +1,28 @@
+Head=<h*> </h*>
+ex= <h1>Hello!</h1>
+info=the size of the headings font
+
+line break=<br>
+info=make space between lines
+
+horizontal rules=<hr>
+info=make horizontal lines
+
+center=<center> </center>
+info=centralizes the text
+
+comment=<!-- -->
+info=comments inside the code
+
+paragraph=<p>
+emphasis=<em>
+
+lists=<ul><li></li></ul>
+info=creates a list and bullet point
+<ol></ol>
+
+image=img src
+info=show image
+
+Hyperlink=<a> href
+info=display a link
